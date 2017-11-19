@@ -1,0 +1,21 @@
+a = 13 ;
+b = 12 ;
+c = 48 ;
+d = 3 ;
+e = a b * c d / - 66 + ;
+f = c | ;
+g = c 1 + | ;
+g = c a % ;
+;
+
+Output:
+13
+12
+48
+3
+206
+6
+7
+9
+base: 9 
+Timer output (few msec)

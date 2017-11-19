@@ -1,0 +1,15 @@
+1 n = 100 ;
+4 a = 0 ;
+5 b = 1 ;
+6 c = a + b ;
+7 a = b ;
+8 b = c ;
+9 n = n - 1 ;
+10 n ? 6 ;
+a ;
+;
+
+Output:
+354224848179261915075
+base: list of numbers (Internal rep of a)
+Timer output
